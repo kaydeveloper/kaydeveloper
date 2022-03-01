@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://mrsadioura.xyz">Kuldeep Singh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<!--h1 align="center">I'm <a href="https://mrsadioura.xyz">Kuldeep Singh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1-->
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -18,9 +18,9 @@
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
-<p align="center">
+<!--p align="center">
 <a href="https://www.linkedin.com/in/kuldeep-s-648b9774/" target="blank"><img align="center" src="https://img.shields.io/badge/kuldeep-singh-648b9774?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:kuldeepsingh.sadioura@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/kuldeepsingh.sadioura@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-</p>
+</p-->
   
 <Br>
 <hr>
