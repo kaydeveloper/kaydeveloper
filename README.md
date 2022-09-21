@@ -10,7 +10,7 @@
 - 🔭: I’m currently working on https://mayatravels.co.in.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about PHP, ReactNative, ReactJS, CMSs. 📊📈🤖🧠
+- 💬: Ask me about MERN, MEVN, ElectronJS, ReactNative, ReactJS, CMSs. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Valorant (Diamond 2), PUBG PC(ACE) and Basketball (1v5 Dribbler)! ⚽🎾🎹
   
